@@ -2,6 +2,7 @@
 <h3 align="center">I'm Mohamed Kamaludeen and computer science undergraduate at the University of Jaffna. Currently, I'm working as a React frontend developer while also diving into backend technologies. My goal is to become a full-stack developer and a skilled mobile application developer. Passionate about AI, machine learning, and deep learning, I'm a self-driven learner on a journey to explore the endless possibilities of technology. I believe in the power of entrepreneurship and aspire to contribute meaningfully to the tech industry. Feel free to connect with me and explore my projects as I continue to grow and learn in this ever-evolving field. Let's innovate and create together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkamaludeen&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkamaludeen" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 I’m currently working on [Exam Management System]
@@ -30,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkamaludeen&show_icons=true&locale=en" alt="mohamedkamaludeen" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkamaludeen&" alt="mohamedkamaludeen" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkamaludeen&" alt="mohamedkamaludeen" /></p>
