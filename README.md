@@ -32,9 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkamaludeen&show_icons=true&locale=en" alt="mohamedkamaludeen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkamaludeen&theme=dark" alt="mohamedkamaludeen" /></p>
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedkamaludeen&show_icons=true&theme=merko" /></p>
-<!--<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuravaani&theme=merko" />
+<!--<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedkamaludeen&show_icons=true&theme=merko" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuravaani&theme=merko" />
 </p>
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuravaani&layout=compact&theme=dark&langs_count=6" />
